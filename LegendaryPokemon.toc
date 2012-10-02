@@ -6,7 +6,4 @@
 ## Version: Alpha
 ## X-Website: http://tekkub.net/
 
-## LoadOnDemand: 1
-## LoadWith: Blizzard_AuctionUI
-
 LegendaryPokemon.lua
