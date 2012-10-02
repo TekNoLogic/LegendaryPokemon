@@ -1,0 +1,12 @@
+## Interface: 50001
+
+## Title: Legendary Pokemon
+## Notes: Find those rare pokemon!
+## Author: Tekkub
+## Version: Alpha
+## X-Website: http://tekkub.net/
+
+## LoadOnDemand: 1
+## LoadWith: Blizzard_AuctionUI
+
+LegendaryPokemon.lua
